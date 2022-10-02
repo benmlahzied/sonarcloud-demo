@@ -15,6 +15,8 @@
     <description>sonar-cloud-demo</description>
     <properties>
         <java.version>17</java.version>
+        <sonar.organization>benmlahzied</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
     <dependencies>
         <dependency>
